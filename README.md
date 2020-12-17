@@ -13,7 +13,7 @@ On a terminal do:
 ```
 git --version
 cd ~/Desktop
-git clone https://github.com/yannklein/react-workshop.git react-giphy 
+git clone https://github.com/lewagonseoul/react-workshop.git react-giphy 
 cd react-giphy
 rm -rf .git
 git init
@@ -39,7 +39,7 @@ _Don't do the install below if you are a LW alumni_
 Search for "Node.js prompt" in the Win menu search bar, open it and tap (press Enter after each line):
 ```
 cd Desktop
-git clone https://github.com/yannklein/react-workshop.git react-giphy 
+git clone https://github.com/lewagonseoul/react-workshop.git react-giphy 
 cd react-giphy
 rm -rf .git
 git init
